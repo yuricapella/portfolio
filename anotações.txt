@@ -1,0 +1,29 @@
+CTRL + N = abre nova aba no VSC para criar um novo arquivo e você escolhe oque ele vai ser
+ctrl K + ctrl C voce comenta uma linha ou adicionar <!-- no começo
+
+Guia de Unidades no CSS
+Medidas Absolutas
+
+Medidas Relativas
+
+Medidas absolutas no CSS
+Píxels (px)
+Points (pt)
+in (inches/polegadas)
+Centímetro e Milímetro (cm / mm)
+Paica (pc)
+
+
+Medidas Relativas no CSS
+Ems (em)
+Rems (rem, "root em")
+Porcentagem (%)
+Ex
+Ch
+Vw (viewport width)
+Vh (viewport height)
+Vmin (viewport minimun)
+Vmax (viewport maximum)
+
+Alerta!!
+Na versão 9.0 do IE, o vmin foi implementado com um nome diferenciado (vm) Algumas versões do IE ainda não oferecem suporte para o vmax, nas novas versões isso foi corrigido.
