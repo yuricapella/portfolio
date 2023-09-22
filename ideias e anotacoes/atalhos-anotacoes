@@ -1,0 +1,56 @@
+/*
+alt="nome alternativo" serve para dar outro nome ao arquivo caso o mesmo nao funcionar.
+para inserir uma imagem em sua página é necessário utilizar a tag <img>
+src="imagem.png" para colocar imagem
+
+se colocar ! ja monta a estrutura basica do html
+
+<a href=""></a> ancora - seu papel é apenas redirecionar o usuário para diferentes urls
+
+arquivo reset é para formatação das palavras e etc
+
+height: 100vh; vh é viewport height, 100%
+
+box-sizing: border-box; deixa o conteudo filho sempre dentro do pai
+
+sempre que for estilizar, criar uma classe.
+
+se quiser especificar algo dentro do pai, criar uma section, se quiser especificar uma section, cria uma classe
+
+CTRL K C comenta o trecho selecionado.
+
+estrutura semantica pra poder mexer no site
+<body>
+    <header></header> --cabecalho
+    <main></main>     -- meio
+    <footer></footer> --rodape
+</body>
+
+p*2 cria dois paragrafos
+segura o alt e clicar em alguma linha faz com que possa digitar em mais de uma linha
+
+1 rem é equivalente a 16px / se quiser saber um valor por exemplo 36px é só fazer 36/16 = 2.25
+rem serve para acompanhar as configurações do usuario caso ele precise alterar o tamanho da fonte, o site acompanhará.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+artigo de html e tags:
+ https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica?_gl=1*1oqvd8c*_ga*Mzg4NTUyNDAyLjE2ODg5OTAwOTQ.*_ga_59FP0KYKSM*MTY4ODk5MzYzOC4yLjEuMTY4ODk5Njg3OC4wLjAuMA..*_fplc*QzdCRFVVZjZrZkpCU1dPZjMlMkJ5MnZvaVBtcVNpYVlvSkh0STVIcXRVTk5INVl1a0lUbUlkaTgxd3VtJTJCTkQ4U0NONUdlWVMlMkZNMG4wSTJaZW84aGw2YWFYZFk3T0ZNaUNtTzZDZ1RITUZGJTJCeGppWTZaOUY2dXRhSXJpVTh3aXclM0QlM0Q.
+
+ Para comentar algum código no HTML você deve envolvê-lo entre 
+ /*  */
