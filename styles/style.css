@@ -258,7 +258,7 @@ body{
     display: none;
 }
 
-@media(max-width: 375px){
+@media(max-width: 500px){
 
     body{
         padding: 10% ;
@@ -310,17 +310,37 @@ body{
         top: 20px;
     }
     .sumario{
-        right: 30%;
+        right: 113px;
         top: 1%;
         font-size: 18px;
     }
     .reaction,.memory,.verbal,.visual{
-        width: 70%;
-        font-size: 18px;
+        width: 280px;
+        height: 35px;
+        font-size: 17px;
         bottom: 3%;
-        right: 2%;
+        left: 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 20px;
     }
+
+    .memory{
+        bottom: 30px;
+    }
+    .verbal{
+        bottom: 45px;
+    }
+    .visual{
+        bottom: 60px;
+    }
+
     .continue{
-        width: 80%;
+        width: 280px;
+        font-size: 20px;
+        text-align: center;
+        bottom: 70px;
+        padding-right: 18px;
     }
 }
